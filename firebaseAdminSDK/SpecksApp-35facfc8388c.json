@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "specksapp",
+  "private_key_id": "35facfc8388c28a1dbabd78fb1a23f0ae71aec42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKxNrivHjQbVFJ\n7zL4EdOLkL6MMWmqpIPPakNSFOtx1RDblb3bO59fm9a0F38B4mB6cAAEVE6tVVIr\n2xb4pmYfaFhAjF75wUrMrOlXUq5ap/trJF42i83Q9vuQyuuthyWGc0gwv7Di4bTv\nbe/rSOKxjTuBxiM6/Vh5/YTQSTBQe3lVnnAUpupcOczdjTScmv8ASG4BYULqHjev\n4+v5oSjx3cP6GSEMp+CFgFkAGPAu04eVhen6kt+6mMuq0BOcQjHOFxSXQ37wDlq1\n7yAKaXVuR6BLCiIeEEOQ60ckft0JfrfePnla9CvSswhYNZ8SoSgjj1c0MVRe++H+\n6vvnsqkJAgMBAAECggEALsKJrVhr73O+rgarqpq7KW7DPpNR813PSp+Ygrqo4ak1\nroCFQrATEpD9Jp86PWTONMOzxcGw50h2UW/YjD3p8JBlGI8UW91tuo1TbYjfVo3/\nMsnE82Vlm5H2EALIqqb9FpKXE1IspS8AHKPzcdmUBdc844xkB7chzq2GSPc4kA2k\nOyT03pZApt6ekzlOY9DgnwGrRJJruMoayMx1no4pNFpbQnYjsdI0/TkXaqlk+yYa\nS8FspaY9cUg5WWRNiBPh8AxLhy06hQm+cQNxjafZFh9RLjxbojM0Q5dS6f7OuJDA\n+qIO+5HKTVWLemvvY9u3AAtgniesdWB83oydGllpxwKBgQC+ztViV6/DCrNmF8dI\nrQ0WcH9V6VBWsXiO3FcgUzczahCwzEsiQ9liWMmzZQcZeL4uvQ7n3vwYC62Mho0U\np8fdSMcQqV+kuwHmKRShKpBP230boh9aFRS4njMWBG9U/iGCnSjKC/9/gkvB/St9\no3I/p03TryztmU4x85Kfzc+Q1wKBgQC6LmQzLlThggBKPtzQsrVtc7wDxo1dBi6H\nmRTAcKgnqVfGuT0in2Za5ORcGfY/SpGrhiIix63QH0yXjiaAtbBVQHrt7WH/iwsm\nwDh5YOPJJ1M/I8o5ylDuu1YBJv8CgfLQElOTOXRdT4er/3SBG8ZjIS0WC/Xl6S5C\n9DT9XOn5HwKBgH1DK7Kz/h79F2kekyWS9dSVZgLweF1xhMPEwy3lc4e9SdfHRkvo\nXv3BbCjpWg/OxIvKcc6nBLiEchqe+l9lBkCvVoAJsVBjtIt0zKZBWxwR68AIXqy0\nyjWpJcB+iNgzPayRoAWEeucqkrF3kuWYN5iyLNWbWtNgoYUJcmiWpH1hAoGACAuZ\nKN0HrfcALDUrNZmDXYdyyHb8BNkPiayDyQ0VNyGKOXwnuCdLNQJPG+vDSFjgkpjp\nQLeAO04e8S2jXEx9ojF3HnDzmydXBAWqaxRUw4x/fGr/gh/L/4T44nPc8S7MX1Fr\nayFAdgfJxRT0499fY0k7uYgqyBSbeykyYQBy2+ECgYEAiur9I4rLfK2/ZL5Z9x0X\nFAfFo/HYzNBnA8hQyaXG0ZdjQvSRWL+cCR8LHaSs4kKgKOjEeGilw8LNhRBtQza0\nV8T7hIhHFwC8fwHGKfAV7HFCICa+W1d96cFuJM8M0Y2Oxm52fIgFs21/Y7+r7shU\nyWuIl/dFGrLDHwEUgPiPUqI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "specksappadmin@specksapp.iam.gserviceaccount.com",
+  "client_id": "107687965177590849459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/specksappadmin%40specksapp.iam.gserviceaccount.com"
+}
